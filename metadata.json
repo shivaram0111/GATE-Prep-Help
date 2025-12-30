@@ -1,0 +1,5 @@
+{
+  "name": "GATE Prep Help",
+  "description": "A multi-agent system simulating a backend architecture to assist students preparing for the GATE Computer Science exam with concept explanations, motivational advice, and study planning.",
+  "requestFramePermissions": []
+}
